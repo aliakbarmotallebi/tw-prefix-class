@@ -1,0 +1,15 @@
+{
+  "name": "tw-prefix-class",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "output": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "posthtml": "^0.16.6",
+    "posthtml-prefix-class": "^1.0.5"
+  }
+}
